@@ -1,4 +1,5 @@
-# Art-in-Code
+# Art-in-Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 Making figure is very often in our day to day scientific research. With such great amount of figures, I found some of them very artsy and they bring me extra pleasure when I am tired staring at the screen. Therefore, I start this repo to curate these awesome figure I made and I hope you will enjoy it too.
 
