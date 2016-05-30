@@ -17,3 +17,8 @@ This graph is made when I tried to compare some normal distributions result. It'
 <img src="https://raw.githubusercontent.com/WesleyyC/Art-in-Code/master/tsne-cluster.jpg" height="600" Hspace="30" Vspace="10">
 
 This graph is made when I tried to use t-sne to visualize my amino acid vector representation with a zoom in effect. I use different shape and color to represent different amino acids and they turn out to be the key in our Play Station controller, with a more colorful vibe.
+
+##### Without Words
+<img src="https://raw.githubusercontent.com/WesleyyC/Art-in-Code/master/without-words.png" height="400" Hspace="30" Vspace="10">
+
+This graph is made part by purpose as I want to see what a Shakespear script would look like if I pull out all the words. While there is no actual substance, the comma, question mark and exclamation mark make up a little emotion in the piece. I find that amazing.
